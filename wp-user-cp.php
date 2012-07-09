@@ -3,7 +3,7 @@
  * @package WP User Control Panel
  */
 /*
-Plugin Name: WP User Control Panel (Beta)
+Plugin Name: WP User Control Panel (Beta) 
 Description: A user control panel for eCommerce websites
 Version: 1.0 Beta 1
 Author: Jeremy G
